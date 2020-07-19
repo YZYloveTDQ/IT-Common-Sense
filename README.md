@@ -5,3 +5,4 @@
 - [IT小常识—HTML](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000394&idx=2&sn=f7c337415cc8ad9f792cf5a20995f25a&chksm=69e7dedb5e9057cd460e86ec24ee209dc3f02d5b38d6acbb52ec0209e6777394b2ff368370b8#rd)
 - [IT小常识—Matlab](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000441&idx=2&sn=ab10053bab161ac80090e65a8767edde&chksm=69e7dee85e9057fe1b73cd44626c16011402cade44ab2c6fd993d6a6f0120d05a4d64721727a#rd)
 - [IT小常识—DOS](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000605&idx=3&sn=50bea9d644e956b18743bb35d3308de9&chksm=69e7df0c5e90561aa5c6382afc901e14ddbc4891b7747161cd778ca1ca442fcd12ac59332eee#rd)
+- [IT小常识—Fortran](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001316&idx=6&sn=5dd82cd6b1857398377bf50ab5c4203e&chksm=69e7da755e905363a0127485fe09ed7a183925ba994a34dd03c1742e2106c46cea9562df1085#rd)
