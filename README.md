@@ -7,3 +7,4 @@
 - [IT小常识—DOS](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100000605&idx=3&sn=50bea9d644e956b18743bb35d3308de9&chksm=69e7df0c5e90561aa5c6382afc901e14ddbc4891b7747161cd778ca1ca442fcd12ac59332eee#rd)
 - [IT小常识—Fortran](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001316&idx=6&sn=5dd82cd6b1857398377bf50ab5c4203e&chksm=69e7da755e905363a0127485fe09ed7a183925ba994a34dd03c1742e2106c46cea9562df1085#rd)
 - [IT小常识—Swift](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100001713&idx=3&sn=a7dbbeb9e0831880458dc59c2f497c32&chksm=69e7dbe05e9052f62d3d7398992de25574e659469f9f2ac002c97afdaa0d023631315800b0d3#rd)
+- [IT小常识—Groovy](http://mp.weixin.qq.com/s?__biz=MzI1MjI1MTQ1NA==&mid=100002021&idx=2&sn=3ba76266030ccdc7708fd1eaf19273e5&chksm=69e7d4b45e905da255b5f79d8b796adc0ababdf936bdbe805927cd6e57fa7c65c0f41f480a9e#rd)
